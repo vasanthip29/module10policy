@@ -11,7 +11,7 @@ terraform {
 
 provider "azurerm" {
   features {}
- subscription_id = "yoursubscriptionid"
+ subscription_id = "d5088a91-9a7a-4064-8ccf-a62abe23dcc5"
 }
 
 # Resource Group where the policy will be scoped
